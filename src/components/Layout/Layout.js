@@ -2,7 +2,6 @@ import React from 'react';
 
 import Aux from '../../hoc/Aux';
 import classes from './Layout.css';
-console.log('classes: ', classes);
 
 
 const layout = (props) => {
